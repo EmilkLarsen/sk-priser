@@ -50,6 +50,8 @@ def handle(u, html):
     sku = u.rstrip("/").split("/p/")[-1].split("/")[0]
     t = re.search(r"<title[^>]*>([^<]+)</title>", html)
     name = (t.group(1).split("|")[0].strip() if t else u.rsplit("/", 1)[-1])
+    og = re.search(r'(https://bilder\.obi\.[a-z.]*/[^"\s>]+)', html)
+    image = og.group(1) if og else None
     return [{
         "chain": "obi_sk",
         "country": "sk",
@@ -60,7 +62,7 @@ def handle(u, html):
         "url": u,
         "price": p,
         "in_stock": (avail == "InStock") if avail else None,
-        "image": None,
+        "image": image,
     }]
 
 
