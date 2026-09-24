@@ -1,8 +1,12 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "chains": {
   "obi_sk": {
-   "error": "TimeoutError: The read operation timed out"
+   "products": 0,
+   "price_changes": 0,
+   "suspicious_changes": 0,
+   "expired": 0,
+   "seconds": 11038.0
   }
  }
 }
