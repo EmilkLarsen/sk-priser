@@ -2,7 +2,7 @@
 /media/sitemap/sitemap-{1..N}-*.xml; product pages carry itemprop microdata
 (exactly one per page) + itemprop sku. Category pages filtered by title."""
 import re
-from common import get, sitemap_urls, sane_price, write_jsonl, pmap
+from common import get, sitemap_urls, sane_price, write_jsonl, pmap, scrape_with_checkpoint
 
 BASE = "https://www.bauhaus.sk"
 OUT = "data/latest/bauhaus_sk.jsonl"
@@ -12,26 +12,18 @@ OG_RE = re.compile(r'og:image"\s*content="([^"]+)"')
 NAME_RE = re.compile(r"<title[^>]*>([^<]+)</title>")
 
 
-# Swedish product URLs are ROOT-LEVEL slugs with model/dimension digits
-# (toppskruv-4x45mm-a96-100st); categories are multi-segment paths or
-# filtered category variants (stupror-tillbehor/75-mm). Verified live:
-# root-level + digits -> itemprop price+sku present.
-PRODUCT_PAT = re.compile(r"\d{1,4}x\d+|-\d+-\d+-|\d+-st\b|\d+st\b|\d+-pack|"
-                          r"\d+mm\b|\d+cm\b|\d+l\b|-\d+-|\d{2,}x\d+")
+# bauhaus.sk moved its sitemap (verified 2026-09-30): flat root /sitemap.xml with
+# 50,000 <loc> entries — categories end in SMALL ids (zeleziarstvo-7347), products
+# in LARGE ids (mako-stierka-na-lepidlo-21058657, 7-8 digits). Pages carry the same
+# itemprop microdata as before (verified: itemprop="price" content="2.05").
+PRODUCT_PAT = re.compile(r"-\d{7,}$")
 
 
 def fetch_url_list(limit=None):
-    idx = get(f"{BASE}/media/sitemap/sitemap.xml")
-    files = sitemap_urls(idx)
-    urls = []
-    for f in files:
-        us = [u for u in sitemap_urls(get(f))
-              if u.rstrip("/").count("/") == 3          # root-level only
-              and u != BASE + "/"
-              and PRODUCT_PAT.search(u)]
-        urls.extend(us)
-        if limit and len(urls) >= limit:
-            break
+    xml = get(f"{BASE}/sitemap.xml")
+    urls = [u.strip().rstrip("/") for u in re.findall(r"<loc>([^<]+)</loc>", xml)
+            if u.strip().rstrip("/").count("/") == 3
+            and PRODUCT_PAT.search(u)]
     return urls[:limit] if limit else urls
 
 
@@ -64,13 +56,8 @@ def handle(u, html):
     }]
 
 
-def scrape(limit=None):
-    def work(u):
-        try:
-            return handle(u, get(u))
-        except Exception:
-            return []
-    return pmap(work, fetch_url_list(limit))
+def scrape(limit=None, deadline=None):
+    return scrape_with_checkpoint("bauhaus_sk", fetch_url_list(limit), handle, limit, deadline)
 
 
 if __name__ == "__main__":
