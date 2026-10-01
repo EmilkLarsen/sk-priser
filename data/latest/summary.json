@@ -1,16 +1,20 @@
 {
  "date": "2026-10-01",
- "total_rows": 39563,
+ "total_rows": 102280,
  "chains": {
   "obi_sk": {
-   "products": 39563,
+   "products": 79065,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18001.5
+   "seconds": 18002.6
   },
   "bauhaus_sk": {
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "products": 23215,
+   "price_changes": 0,
+   "suspicious_changes": 0,
+   "expired": 0,
+   "seconds": 18001.3
   }
  }
 }

@@ -1,1 +1,326 @@
-[]
+[
+ {
+  "key": "wolfcraft rucna bruska",
+  "name": "Wolfcraft Ručná brúska",
+  "prices": {
+   "obi_sk": 5.39,
+   "bauhaus_sk": 12.6
+  },
+  "min": 5.39,
+  "max": 12.6,
+  "spread_pct": 133.8,
+  "match": "probable"
+ },
+ {
+  "key": "bosch elektricka retazova pila universalchain 35",
+  "name": "Bosch Elektrická reťazová píla UniversalChain 35",
+  "prices": {
+   "obi_sk": 144.99,
+   "bauhaus_sk": 84.5
+  },
+  "min": 84.5,
+  "max": 144.99,
+  "spread_pct": 71.6,
+  "match": "probable"
+ },
+ {
+  "key": "einhell vrtacie kladivo th rh 1600",
+  "name": "Einhell Vŕtacie kladivo TH-RH 1600",
+  "prices": {
+   "obi_sk": 124.99,
+   "bauhaus_sk": 80.0
+  },
+  "min": 80.0,
+  "max": 124.99,
+  "spread_pct": 56.2,
+  "match": "probable"
+ },
+ {
+  "key": "cersanit umyvadlo parva 60",
+  "name": "Cersanit Umývadlo Parva 60",
+  "prices": {
+   "obi_sk": 45.99,
+   "bauhaus_sk": 29.5
+  },
+  "min": 29.5,
+  "max": 45.99,
+  "spread_pct": 55.9,
+  "match": "probable"
+ },
+ {
+  "key": "spokar kefa na riad 4422",
+  "name": "SPOKAR Kefa na riad 4422",
+  "prices": {
+   "obi_sk": 1.89,
+   "bauhaus_sk": 1.4
+  },
+  "min": 1.4,
+  "max": 1.89,
+  "spread_pct": 35.0,
+  "match": "probable"
+ },
+ {
+  "key": "bosch elektricka kosacka na travu arm 32",
+  "name": "Bosch Elektrická kosačka na trávu ARM 32",
+  "prices": {
+   "obi_sk": 114.99,
+   "bauhaus_sk": 92.2
+  },
+  "min": 92.2,
+  "max": 114.99,
+  "spread_pct": 24.7,
+  "match": "probable"
+ },
+ {
+  "key": "gardena comfort turbinovy zadazdovac so sankami",
+  "name": "GARDENA Comfort Turbínový zadažďovač so sánkami",
+  "prices": {
+   "obi_sk": 35.99,
+   "bauhaus_sk": 29.5
+  },
+  "min": 29.5,
+  "max": 35.99,
+  "spread_pct": 22.0,
+  "match": "probable"
+ },
+ {
+  "key": "narex elektricka retazova pila epr 40 23",
+  "name": "Narex Elektrická reťazová píla EPR 40-23",
+  "prices": {
+   "obi_sk": 99.99,
+   "bauhaus_sk": 119.9
+  },
+  "min": 99.99,
+  "max": 119.9,
+  "spread_pct": 19.9,
+  "match": "probable"
+ },
+ {
+  "key": "karcher parny cistic sc 2 easyfix",
+  "name": "Kärcher Parný čistič SC 2 EasyFix",
+  "prices": {
+   "obi_sk": 139.99,
+   "bauhaus_sk": 119.0
+  },
+  "min": 119.0,
+  "max": 139.99,
+  "spread_pct": 17.6,
+  "match": "probable"
+ },
+ {
+  "key": "bosch priamociara pila pst 800 pel",
+  "name": "Bosch Priamočiara píla PST 800 PEL",
+  "prices": {
+   "obi_sk": 84.99,
+   "bauhaus_sk": 75.0
+  },
+  "min": 75.0,
+  "max": 84.99,
+  "spread_pct": 13.3,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zavlazovaci pocitac select",
+  "name": "GARDENA Zavlažovací počítač Select",
+  "prices": {
+   "obi_sk": 51.99,
+   "bauhaus_sk": 45.95
+  },
+  "min": 45.95,
+  "max": 51.99,
+  "spread_pct": 13.1,
+  "match": "probable"
+ },
+ {
+  "key": "kiepenkerl semena kvitnucich rastlin raj pre hmyz",
+  "name": "Kiepenkerl Semená kvitnúcich rastlín raj pre hmyz",
+  "prices": {
+   "obi_sk": 9.19,
+   "bauhaus_sk": 8.2
+  },
+  "min": 8.2,
+  "max": 9.19,
+  "spread_pct": 12.1,
+  "match": "probable"
+ },
+ {
+  "key": "leifheit nahradna hlavica k mopu clean twist disc mop active",
+  "name": "LEIFHEIT Náhradná hlavica k mopu Clean Twist Disc Mop Active",
+  "prices": {
+   "obi_sk": 5.49,
+   "bauhaus_sk": 6.15
+  },
+  "min": 5.49,
+  "max": 6.15,
+  "spread_pct": 12.0,
+  "match": "probable"
+ },
+ {
+  "key": "hrable na listie",
+  "name": "Hrable na lístie",
+  "prices": {
+   "obi_sk": 15.59,
+   "bauhaus_sk": 14.0
+  },
+  "min": 14.0,
+  "max": 15.59,
+  "spread_pct": 11.4,
+  "match": "probable"
+ },
+ {
+  "key": "cukromer",
+  "name": "Cukromer",
+  "prices": {
+   "obi_sk": 12.79,
+   "bauhaus_sk": 11.5
+  },
+  "min": 11.5,
+  "max": 12.79,
+  "spread_pct": 11.2,
+  "match": "probable"
+ },
+ {
+  "key": "gardena rozdelovac vody automatic",
+  "name": "GARDENA Rozdeľovač vody automatic",
+  "prices": {
+   "obi_sk": 71.99,
+   "bauhaus_sk": 79.9
+  },
+  "min": 71.99,
+  "max": 79.9,
+  "spread_pct": 11.0,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zahradna sprcha duo",
+  "name": "GARDENA Zahradná sprcha duo",
+  "prices": {
+   "obi_sk": 35.99,
+   "bauhaus_sk": 39.9
+  },
+  "min": 35.99,
+  "max": 39.9,
+  "spread_pct": 10.9,
+  "match": "probable"
+ },
+ {
+  "key": "vileda ultramax xl mop",
+  "name": "Vileda ULTRAMAX XL Mop",
+  "prices": {
+   "obi_sk": 30.99,
+   "bauhaus_sk": 27.95
+  },
+  "min": 27.95,
+  "max": 30.99,
+  "spread_pct": 10.9,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zahradna sprcha trio",
+  "name": "GARDENA Záhradná sprcha trio",
+  "prices": {
+   "obi_sk": 51.99,
+   "bauhaus_sk": 47.9
+  },
+  "min": 47.9,
+  "max": 51.99,
+  "spread_pct": 8.5,
+  "match": "probable"
+ },
+ {
+  "key": "vileda supermocio soft mop",
+  "name": "Vileda SUPERMOCIO Soft Mop",
+  "prices": {
+   "obi_sk": 7.39,
+   "bauhaus_sk": 7.15
+  },
+  "min": 7.15,
+  "max": 7.39,
+  "spread_pct": 3.4,
+  "match": "probable"
+ },
+ {
+  "key": "elektricka mucholapka",
+  "name": "Elektrická mucholapka",
+  "prices": {
+   "obi_sk": 6.29,
+   "bauhaus_sk": 6.1
+  },
+  "min": 6.1,
+  "max": 6.29,
+  "spread_pct": 3.1,
+  "match": "probable"
+ },
+ {
+  "key": "vileda supermocio vedro so zmykacim kosom",
+  "name": "Vileda SUPERMOCIO Vedro so žmýkacím košom",
+  "prices": {
+   "obi_sk": 11.49,
+   "bauhaus_sk": 11.15
+  },
+  "min": 11.15,
+  "max": 11.49,
+  "spread_pct": 3.0,
+  "match": "probable"
+ },
+ {
+  "key": "metabo vibracna bruska sr 2185",
+  "name": "Metabo Vibračná brúska SR 2185",
+  "prices": {
+   "obi_sk": 104.99,
+   "bauhaus_sk": 102.0
+  },
+  "min": 102.0,
+  "max": 104.99,
+  "spread_pct": 2.9,
+  "match": "probable"
+ },
+ {
+  "key": "gardena kalove cerpadlo 20000 aquasensor",
+  "name": "GARDENA Kalové čerpadlo 20000 AquaSensor",
+  "prices": {
+   "obi_sk": 154.99,
+   "bauhaus_sk": 159.0
+  },
+  "min": 154.99,
+  "max": 159.0,
+  "spread_pct": 2.6,
+  "match": "probable"
+ },
+ {
+  "key": "gardena cerpadlo do suda 4700 2 inox",
+  "name": "GARDENA Čerpadlo do suda 4700/2 inox",
+  "prices": {
+   "obi_sk": 104.99,
+   "bauhaus_sk": 106.9
+  },
+  "min": 104.99,
+  "max": 106.9,
+  "spread_pct": 1.8,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zavlazovacie hodiny",
+  "name": "GARDENA Zavlažovacie hodiny",
+  "prices": {
+   "obi_sk": 30.99,
+   "bauhaus_sk": 30.9
+  },
+  "min": 30.9,
+  "max": 30.99,
+  "spread_pct": 0.3,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zavlazovaci pocitac flex",
+  "name": "GARDENA Zavlažovací počítač Flex",
+  "prices": {
+   "obi_sk": 45.99,
+   "bauhaus_sk": 46.0
+  },
+  "min": 45.99,
+  "max": 46.0,
+  "spread_pct": 0.0,
+  "match": "probable"
+ }
+]
