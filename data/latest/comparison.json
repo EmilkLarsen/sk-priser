@@ -1,14 +1,14 @@
 [
  {
-  "key": "wolfcraft rucna bruska",
-  "name": "Wolfcraft Ručná brúska",
+  "key": "pasca na mysi",
+  "name": "Pasca na myši",
   "prices": {
-   "obi_sk": 5.39,
-   "bauhaus_sk": 12.6
+   "obi_sk": 0.99,
+   "bauhaus_sk": 2.35
   },
-  "min": 5.39,
-  "max": 12.6,
-  "spread_pct": 133.8,
+  "min": 0.99,
+  "max": 2.35,
+  "spread_pct": 137.4,
   "match": "probable"
  },
  {
@@ -57,18 +57,6 @@
   "min": 25.0,
   "max": 40.99,
   "spread_pct": 64.0,
-  "match": "probable"
- },
- {
-  "key": "led lampas",
-  "name": "LED Lampáš",
-  "prices": {
-   "obi_sk": 14.69,
-   "bauhaus_sk": 23.95
-  },
-  "min": 14.69,
-  "max": 23.95,
-  "spread_pct": 63.0,
   "match": "probable"
  },
  {
@@ -720,6 +708,18 @@
   "match": "probable"
  },
  {
+  "key": "bosch professional pila na porobeton gac 250",
+  "name": "Bosch Professional Píla na pórobetón GAC 250",
+  "prices": {
+   "obi_sk": 169.99,
+   "bauhaus_sk": 169.0
+  },
+  "min": 169.0,
+  "max": 169.99,
+  "spread_pct": 0.6,
+  "match": "probable"
+ },
+ {
   "key": "gardena zavlazovacie hodiny",
   "name": "GARDENA Zavlažovacie hodiny",
   "prices": {
@@ -729,6 +729,18 @@
   "min": 30.9,
   "max": 30.99,
   "spread_pct": 0.3,
+  "match": "probable"
+ },
+ {
+  "key": "gardena domaca vodaren 3000 4",
+  "name": "GARDENA Domáca vodáreň 3000/4",
+  "prices": {
+   "obi_sk": 134.99,
+   "bauhaus_sk": 134.9
+  },
+  "min": 134.9,
+  "max": 134.99,
+  "spread_pct": 0.1,
   "match": "probable"
  },
  {
