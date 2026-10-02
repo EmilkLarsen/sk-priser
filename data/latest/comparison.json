@@ -12,6 +12,30 @@
   "match": "probable"
  },
  {
+  "key": "bosch priklepova vrtacka easyimpact 540",
+  "name": "Bosch Príklepová vŕtačka EasyImpact 540",
+  "prices": {
+   "obi_sk": 55.99,
+   "bauhaus_sk": 30.0
+  },
+  "min": 30.0,
+  "max": 55.99,
+  "spread_pct": 86.6,
+  "match": "probable"
+ },
+ {
+  "key": "detska metla",
+  "name": "Detská metla",
+  "prices": {
+   "obi_sk": 8.79,
+   "bauhaus_sk": 4.99
+  },
+  "min": 4.99,
+  "max": 8.79,
+  "spread_pct": 76.2,
+  "match": "probable"
+ },
+ {
   "key": "bosch elektricka retazova pila universalchain 35",
   "name": "Bosch Elektrická reťazová píla UniversalChain 35",
   "prices": {
@@ -21,6 +45,42 @@
   "min": 84.5,
   "max": 144.99,
   "spread_pct": 71.6,
+  "match": "probable"
+ },
+ {
+  "key": "emos skusacka napatia vt 320",
+  "name": "EMOS Skúšačka napätia VT-320",
+  "prices": {
+   "obi_sk": 40.99,
+   "bauhaus_sk": 25.0
+  },
+  "min": 25.0,
+  "max": 40.99,
+  "spread_pct": 64.0,
+  "match": "probable"
+ },
+ {
+  "key": "led lampas",
+  "name": "LED Lampáš",
+  "prices": {
+   "obi_sk": 14.69,
+   "bauhaus_sk": 23.95
+  },
+  "min": 14.69,
+  "max": 23.95,
+  "spread_pct": 63.0,
+  "match": "probable"
+ },
+ {
+  "key": "wolfcraft stojan na vrtacku",
+  "name": "Wolfcraft Stojan na vŕtačku",
+  "prices": {
+   "obi_sk": 129.99,
+   "bauhaus_sk": 82.0
+  },
+  "min": 82.0,
+  "max": 129.99,
+  "spread_pct": 58.5,
   "match": "probable"
  },
  {
@@ -48,6 +108,30 @@
   "match": "probable"
  },
  {
+  "key": "karcher parny cistic sc 1 easyfix",
+  "name": "Kärcher Parný čistič SC 1 EasyFix",
+  "prices": {
+   "obi_sk": 109.99,
+   "bauhaus_sk": 75.0
+  },
+  "min": 75.0,
+  "max": 109.99,
+  "spread_pct": 46.7,
+  "match": "probable"
+ },
+ {
+  "key": "gardena snimac podnej vlhkosti",
+  "name": "GARDENA Snímač pôdnej vlhkosti",
+  "prices": {
+   "obi_sk": 49.99,
+   "bauhaus_sk": 34.39
+  },
+  "min": 34.39,
+  "max": 49.99,
+  "spread_pct": 45.4,
+  "match": "probable"
+ },
+ {
   "key": "spokar kefa na riad 4422",
   "name": "SPOKAR Kefa na riad 4422",
   "prices": {
@@ -57,6 +141,30 @@
   "min": 1.4,
   "max": 1.89,
   "spread_pct": 35.0,
+  "match": "probable"
+ },
+ {
+  "key": "bosch professional priklepova vrtacka gsb 550",
+  "name": "Bosch Professional Príklepová vŕtačka GSB 550",
+  "prices": {
+   "obi_sk": 48.99,
+   "bauhaus_sk": 65.0
+  },
+  "min": 48.99,
+  "max": 65.0,
+  "spread_pct": 32.7,
+  "match": "probable"
+ },
+ {
+  "key": "metabo excentricka bruska sxe 3150",
+  "name": "Metabo Excentrická brúska SXE 3150",
+  "prices": {
+   "obi_sk": 154.99,
+   "bauhaus_sk": 122.0
+  },
+  "min": 122.0,
+  "max": 154.99,
+  "spread_pct": 27.0,
   "match": "probable"
  },
  {
@@ -72,6 +180,18 @@
   "match": "probable"
  },
  {
+  "key": "bosch professional pasova bruska gbs 75 ae",
+  "name": "Bosch Professional Pásová brúska GBS 75 AE",
+  "prices": {
+   "obi_sk": 224.99,
+   "bauhaus_sk": 279.0
+  },
+  "min": 224.99,
+  "max": 279.0,
+  "spread_pct": 24.0,
+  "match": "probable"
+ },
+ {
   "key": "gardena comfort turbinovy zadazdovac so sankami",
   "name": "GARDENA Comfort Turbínový zadažďovač so sánkami",
   "prices": {
@@ -81,6 +201,54 @@
   "min": 29.5,
   "max": 35.99,
   "spread_pct": 22.0,
+  "match": "probable"
+ },
+ {
+  "key": "bosch professional aku vrtaci skrutkovac gsr 12v 30",
+  "name": "Bosch Professional Aku vŕtací skrutkovač GSR 12V-30",
+  "prices": {
+   "obi_sk": 144.99,
+   "bauhaus_sk": 119.0
+  },
+  "min": 119.0,
+  "max": 144.99,
+  "spread_pct": 21.8,
+  "match": "probable"
+ },
+ {
+  "key": "scheppach buracie kladivo ab 1600",
+  "name": "Scheppach Búracie kladivo AB 1600",
+  "prices": {
+   "obi_sk": 224.99,
+   "bauhaus_sk": 185.0
+  },
+  "min": 185.0,
+  "max": 224.99,
+  "spread_pct": 21.6,
+  "match": "probable"
+ },
+ {
+  "key": "narex elektricka retazova pila epr 35 23",
+  "name": "Narex Elektrická reťazová píla EPR 35-23",
+  "prices": {
+   "obi_sk": 97.99,
+   "bauhaus_sk": 119.0
+  },
+  "min": 97.99,
+  "max": 119.0,
+  "spread_pct": 21.4,
+  "match": "probable"
+ },
+ {
+  "key": "black decker vibracna bruska bew220 qs",
+  "name": "BLACK+DECKER Vibračná brúska BEW220-QS",
+  "prices": {
+   "obi_sk": 29.99,
+   "bauhaus_sk": 36.0
+  },
+  "min": 29.99,
+  "max": 36.0,
+  "spread_pct": 20.0,
   "match": "probable"
  },
  {
@@ -96,6 +264,18 @@
   "match": "probable"
  },
  {
+  "key": "bosch pasova bruska pbs 75 a",
+  "name": "Bosch Pásová brúska PBS 75 A",
+  "prices": {
+   "obi_sk": 129.99,
+   "bauhaus_sk": 109.0
+  },
+  "min": 109.0,
+  "max": 129.99,
+  "spread_pct": 19.3,
+  "match": "probable"
+ },
+ {
   "key": "karcher parny cistic sc 2 easyfix",
   "name": "Kärcher Parný čistič SC 2 EasyFix",
   "prices": {
@@ -105,6 +285,42 @@
   "min": 119.0,
   "max": 139.99,
   "spread_pct": 17.6,
+  "match": "probable"
+ },
+ {
+  "key": "bosch vibracna bruska pss 200 ac",
+  "name": "Bosch Vibračná brúska PSS 200 AC",
+  "prices": {
+   "obi_sk": 57.99,
+   "bauhaus_sk": 49.9
+  },
+  "min": 49.9,
+  "max": 57.99,
+  "spread_pct": 16.2,
+  "match": "probable"
+ },
+ {
+  "key": "leifheit susiak na bielizen tower 190",
+  "name": "LEIFHEIT Sušiak na bielizeň Tower 190",
+  "prices": {
+   "obi_sk": 43.99,
+   "bauhaus_sk": 51.0
+  },
+  "min": 43.99,
+  "max": 51.0,
+  "spread_pct": 15.9,
+  "match": "probable"
+ },
+ {
+  "key": "soudal pistol na penu fg std15",
+  "name": "SOUDAL Pištoľ na penu FG-STD15",
+  "prices": {
+   "obi_sk": 16.99,
+   "bauhaus_sk": 14.9
+  },
+  "min": 14.9,
+  "max": 16.99,
+  "spread_pct": 14.0,
   "match": "probable"
  },
  {
@@ -132,6 +348,18 @@
   "match": "probable"
  },
  {
+  "key": "bosch professional uhlova bruska gws 750 115",
+  "name": "Bosch Professional Uhlová brúska GWS 750-115",
+  "prices": {
+   "obi_sk": 61.99,
+   "bauhaus_sk": 54.9
+  },
+  "min": 54.9,
+  "max": 61.99,
+  "spread_pct": 12.9,
+  "match": "probable"
+ },
+ {
   "key": "kiepenkerl semena kvitnucich rastlin raj pre hmyz",
   "name": "Kiepenkerl Semená kvitnúcich rastlín raj pre hmyz",
   "prices": {
@@ -153,6 +381,18 @@
   "min": 5.49,
   "max": 6.15,
   "spread_pct": 12.0,
+  "match": "probable"
+ },
+ {
+  "key": "vystrazny trojuholnik",
+  "name": "Výstražný trojuholník",
+  "prices": {
+   "obi_sk": 6.49,
+   "bauhaus_sk": 7.25
+  },
+  "min": 6.49,
+  "max": 7.25,
+  "spread_pct": 11.7,
   "match": "probable"
  },
  {
@@ -216,6 +456,18 @@
   "match": "probable"
  },
  {
+  "key": "elektrobock detektor uniku vody cn112",
+  "name": "Elektrobock detektor úniku vody CN112",
+  "prices": {
+   "obi_sk": 11.59,
+   "bauhaus_sk": 10.5
+  },
+  "min": 10.5,
+  "max": 11.59,
+  "spread_pct": 10.4,
+  "match": "probable"
+ },
+ {
   "key": "gardena zahradna sprcha trio",
   "name": "GARDENA Záhradná sprcha trio",
   "prices": {
@@ -225,6 +477,114 @@
   "min": 47.9,
   "max": 51.99,
   "spread_pct": 8.5,
+  "match": "probable"
+ },
+ {
+  "key": "leifheit susiak na bielizen classic extentable 230 solid",
+  "name": "LEIFHEIT Sušiak na bielizeň Classic Extentable 230 Solid",
+  "prices": {
+   "obi_sk": 71.99,
+   "bauhaus_sk": 66.5
+  },
+  "min": 66.5,
+  "max": 71.99,
+  "spread_pct": 8.3,
+  "match": "probable"
+ },
+ {
+  "key": "metabo priamociara pila steb 65 quick",
+  "name": "Metabo Priamočiara píla STEB 65 Quick",
+  "prices": {
+   "obi_sk": 61.99,
+   "bauhaus_sk": 67.0
+  },
+  "min": 61.99,
+  "max": 67.0,
+  "spread_pct": 8.1,
+  "match": "probable"
+ },
+ {
+  "key": "metabo kompresor basic 250 24 w",
+  "name": "Metabo Kompresor Basic 250-24 W",
+  "prices": {
+   "obi_sk": 184.99,
+   "bauhaus_sk": 172.0
+  },
+  "min": 172.0,
+  "max": 184.99,
+  "spread_pct": 7.6,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zavlazovaci pocitac master",
+  "name": "GARDENA Zavlažovací počítač Master",
+  "prices": {
+   "obi_sk": 81.99,
+   "bauhaus_sk": 76.99
+  },
+  "min": 76.99,
+  "max": 81.99,
+  "spread_pct": 6.5,
+  "match": "probable"
+ },
+ {
+  "key": "black decker teplovzdusna pistol kx1650",
+  "name": "BLACK+DECKER Teplovzdušná pištoľ KX1650",
+  "prices": {
+   "obi_sk": 25.99,
+   "bauhaus_sk": 24.5
+  },
+  "min": 24.5,
+  "max": 25.99,
+  "spread_pct": 6.1,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zavlazovaci ventil 9 v bluetooth",
+  "name": "GARDENA Zavlažovací ventil 9 V Bluetooth",
+  "prices": {
+   "obi_sk": 86.99,
+   "bauhaus_sk": 91.19
+  },
+  "min": 86.99,
+  "max": 91.19,
+  "spread_pct": 4.8,
+  "match": "probable"
+ },
+ {
+  "key": "bosch professional uhlova bruska gws 880",
+  "name": "Bosch Professional Uhlová brúska GWS 880",
+  "prices": {
+   "obi_sk": 71.99,
+   "bauhaus_sk": 75.0
+  },
+  "min": 71.99,
+  "max": 75.0,
+  "spread_pct": 4.2,
+  "match": "probable"
+ },
+ {
+  "key": "scheppach kompresorovy olej",
+  "name": "Scheppach Kompresorový olej",
+  "prices": {
+   "obi_sk": 7.79,
+   "bauhaus_sk": 7.5
+  },
+  "min": 7.5,
+  "max": 7.79,
+  "spread_pct": 3.9,
+  "match": "probable"
+ },
+ {
+  "key": "bosch priklepova vrtacka universal impact 700",
+  "name": "Bosch Príklepová vŕtačka Universal Impact 700",
+  "prices": {
+   "obi_sk": 81.99,
+   "bauhaus_sk": 85.0
+  },
+  "min": 81.99,
+  "max": 85.0,
+  "spread_pct": 3.7,
   "match": "probable"
  },
  {
@@ -240,6 +600,18 @@
   "match": "probable"
  },
  {
+  "key": "gardena zavlazovaci pocitac bluetooth",
+  "name": "GARDENA Zavlažovací počítač Bluetooth",
+  "prices": {
+   "obi_sk": 66.99,
+   "bauhaus_sk": 64.9
+  },
+  "min": 64.9,
+  "max": 66.99,
+  "spread_pct": 3.2,
+  "match": "probable"
+ },
+ {
   "key": "elektricka mucholapka",
   "name": "Elektrická mucholapka",
   "prices": {
@@ -248,6 +620,18 @@
   },
   "min": 6.1,
   "max": 6.29,
+  "spread_pct": 3.1,
+  "match": "probable"
+ },
+ {
+  "key": "zipper elektricky furik zi ewb500li",
+  "name": "ZIPPER Elektrický fúrik ZI-EWB500LI",
+  "prices": {
+   "obi_sk": 369.99,
+   "bauhaus_sk": 359.0
+  },
+  "min": 359.0,
+  "max": 369.99,
   "spread_pct": 3.1,
   "match": "probable"
  },
@@ -288,6 +672,18 @@
   "match": "probable"
  },
  {
+  "key": "scheppach plazmova rezacka plc 40",
+  "name": "Scheppach Plazmová rezačka PLC 40",
+  "prices": {
+   "obi_sk": 164.99,
+   "bauhaus_sk": 169.0
+  },
+  "min": 164.99,
+  "max": 169.0,
+  "spread_pct": 2.4,
+  "match": "probable"
+ },
+ {
   "key": "gardena cerpadlo do suda 4700 2 inox",
   "name": "GARDENA Čerpadlo do suda 4700/2 inox",
   "prices": {
@@ -297,6 +693,30 @@
   "min": 104.99,
   "max": 106.9,
   "spread_pct": 1.8,
+  "match": "probable"
+ },
+ {
+  "key": "dremel ohybny hriadel 225",
+  "name": "Dremel Ohybný hriadeľ 225",
+  "prices": {
+   "obi_sk": 33.99,
+   "bauhaus_sk": 34.36
+  },
+  "min": 33.99,
+  "max": 34.36,
+  "spread_pct": 1.1,
+  "match": "probable"
+ },
+ {
+  "key": "makita uhlova bruska ga9050r",
+  "name": "Makita Uhlová brúska GA9050R",
+  "prices": {
+   "obi_sk": 119.99,
+   "bauhaus_sk": 119.0
+  },
+  "min": 119.0,
+  "max": 119.99,
+  "spread_pct": 0.8,
   "match": "probable"
  },
  {
@@ -312,6 +732,30 @@
   "match": "probable"
  },
  {
+  "key": "makita uhlova bruska ga9020rf",
+  "name": "Makita Uhlová brúska GA9020RF",
+  "prices": {
+   "obi_sk": 134.99,
+   "bauhaus_sk": 134.9
+  },
+  "min": 134.9,
+  "max": 134.99,
+  "spread_pct": 0.1,
+  "match": "probable"
+ },
+ {
+  "key": "bosch professional vrtacie kladivo gbh 220",
+  "name": "Bosch Professional Vŕtacie kladivo GBH 220",
+  "prices": {
+   "obi_sk": 119.99,
+   "bauhaus_sk": 119.9
+  },
+  "min": 119.9,
+  "max": 119.99,
+  "spread_pct": 0.1,
+  "match": "probable"
+ },
+ {
   "key": "gardena zavlazovaci pocitac flex",
   "name": "GARDENA Zavlažovací počítač Flex",
   "prices": {
@@ -320,6 +764,42 @@
   },
   "min": 45.99,
   "max": 46.0,
+  "spread_pct": 0.0,
+  "match": "probable"
+ },
+ {
+  "key": "einhell priamociara pila tc js 60 1",
+  "name": "Einhell Priamočiara píla TC-JS 60/1",
+  "prices": {
+   "obi_sk": 32.99,
+   "bauhaus_sk": 33.0
+  },
+  "min": 32.99,
+  "max": 33.0,
+  "spread_pct": 0.0,
+  "match": "probable"
+ },
+ {
+  "key": "bosch professional aku vrtaci skrutkovac gsr 120 li",
+  "name": "Bosch Professional Aku vŕtací skrutkovač GSR 120-LI",
+  "prices": {
+   "obi_sk": 104.99,
+   "bauhaus_sk": 105.0
+  },
+  "min": 104.99,
+  "max": 105.0,
+  "spread_pct": 0.0,
+  "match": "probable"
+ },
+ {
+  "key": "scheppach buracie kladivo ab 1900",
+  "name": "Scheppach Búracie kladivo AB 1900",
+  "prices": {
+   "obi_sk": 224.99,
+   "bauhaus_sk": 225.0
+  },
+  "min": 224.99,
+  "max": 225.0,
   "spread_pct": 0.0,
   "match": "probable"
  }
