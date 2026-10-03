@@ -12,6 +12,18 @@
   "match": "probable"
  },
  {
+  "key": "dekoracna figurka jelen",
+  "name": "Dekoračná figúrka jeleň",
+  "prices": {
+   "obi_sk": 12.99,
+   "bauhaus_sk": 6.25
+  },
+  "min": 6.25,
+  "max": 12.99,
+  "spread_pct": 107.8,
+  "match": "probable"
+ },
+ {
   "key": "bosch priklepova vrtacka easyimpact 540",
   "name": "Bosch Príklepová vŕtačka EasyImpact 540",
   "prices": {
