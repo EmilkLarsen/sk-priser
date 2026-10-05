@@ -492,6 +492,18 @@
   "match": "probable"
  },
  {
+  "key": "makita uhlova bruska ga9020rf",
+  "name": "Makita Uhlová brúska GA9020RF",
+  "prices": {
+   "obi_sk": 134.99,
+   "bauhaus_sk": 146.0
+  },
+  "min": 134.99,
+  "max": 146.0,
+  "spread_pct": 8.2,
+  "match": "probable"
+ },
+ {
   "key": "metabo priamociara pila steb 65 quick",
   "name": "Metabo Priamočiara píla STEB 65 Quick",
   "prices": {
@@ -746,18 +758,6 @@
  {
   "key": "gardena domaca vodaren 3000 4",
   "name": "GARDENA Domáca vodáreň 3000/4",
-  "prices": {
-   "obi_sk": 134.99,
-   "bauhaus_sk": 134.9
-  },
-  "min": 134.9,
-  "max": 134.99,
-  "spread_pct": 0.1,
-  "match": "probable"
- },
- {
-  "key": "makita uhlova bruska ga9020rf",
-  "name": "Makita Uhlová brúska GA9020RF",
   "prices": {
    "obi_sk": 134.99,
    "bauhaus_sk": 134.9
