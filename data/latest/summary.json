@@ -1,13 +1,13 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "total_rows": 173566,
  "chains": {
   "obi_sk": {
-   "products": 39448,
+   "products": 79035,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18003.5
+   "seconds": 18005.6
   },
   "bauhaus_sk": {
    "products": 47937,
