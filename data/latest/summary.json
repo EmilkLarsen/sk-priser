@@ -3,18 +3,18 @@
  "total_rows": 173573,
  "chains": {
   "obi_sk": {
-   "products": 118549,
+   "products": 125588,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18006.4
+   "seconds": 3263.7
   },
   "bauhaus_sk": {
-   "products": 47937,
+   "products": 24488,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 1324.2
+   "seconds": 18002.1
   }
  }
 }
