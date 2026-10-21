@@ -2,11 +2,7 @@
  "date": "2026-10-21",
  "chains": {
   "bauhaus_sk": {
-   "products": 19608,
-   "price_changes": 0,
-   "suspicious_changes": 0,
-   "expired": 0,
-   "seconds": 18002.0
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   }
  }
 }
