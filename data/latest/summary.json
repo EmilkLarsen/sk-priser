@@ -3,18 +3,14 @@
  "total_rows": 173557,
  "chains": {
   "obi_sk": {
-   "products": 79265,
+   "products": 118067,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18006.5
+   "seconds": 18006.2
   },
   "bauhaus_sk": {
-   "products": 19608,
-   "price_changes": 0,
-   "suspicious_changes": 0,
-   "expired": 0,
-   "seconds": 18002.0
+   "error": "HTTPError: HTTP Error 503: Service Unavailable"
   }
  }
 }
