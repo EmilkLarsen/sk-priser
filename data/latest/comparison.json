@@ -528,18 +528,6 @@
   "match": "probable"
  },
  {
-  "key": "gardena zavlazovaci ventil 9 v bluetooth",
-  "name": "GARDENA Zavlažovací ventil 9 V Bluetooth",
-  "prices": {
-   "obi_sk": 86.99,
-   "bauhaus_sk": 91.19
-  },
-  "min": 86.99,
-  "max": 91.19,
-  "spread_pct": 4.8,
-  "match": "probable"
- },
- {
   "key": "bosch professional uhlova bruska gws 880",
   "name": "Bosch Professional Uhlová brúska GWS 880",
   "prices": {
@@ -764,6 +752,18 @@
   },
   "min": 81.99,
   "max": 81.99,
+  "spread_pct": 0.0,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zavlazovaci ventil 9 v bluetooth",
+  "name": "GARDENA Zavlažovací ventil 9 V Bluetooth",
+  "prices": {
+   "obi_sk": 86.99,
+   "bauhaus_sk": 86.99
+  },
+  "min": 86.99,
+  "max": 86.99,
   "spread_pct": 0.0,
   "match": "probable"
  },
