@@ -12,18 +12,6 @@
   "match": "probable"
  },
  {
-  "key": "dekoracna figurka jelen",
-  "name": "Dekoračná figúrka jeleň",
-  "prices": {
-   "obi_sk": 12.99,
-   "bauhaus_sk": 6.25
-  },
-  "min": 6.25,
-  "max": 12.99,
-  "spread_pct": 107.8,
-  "match": "probable"
- },
- {
   "key": "bosch priklepova vrtacka easyimpact 540",
   "name": "Bosch Príklepová vŕtačka EasyImpact 540",
   "prices": {
@@ -528,18 +516,6 @@
   "match": "probable"
  },
  {
-  "key": "gardena zavlazovaci pocitac master",
-  "name": "GARDENA Zavlažovací počítač Master",
-  "prices": {
-   "obi_sk": 81.99,
-   "bauhaus_sk": 76.99
-  },
-  "min": 76.99,
-  "max": 81.99,
-  "spread_pct": 6.5,
-  "match": "probable"
- },
- {
   "key": "black decker teplovzdusna pistol kx1650",
   "name": "BLACK+DECKER Teplovzdušná pištoľ KX1650",
   "prices": {
@@ -777,6 +753,18 @@
   "min": 119.9,
   "max": 119.99,
   "spread_pct": 0.1,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zavlazovaci pocitac master",
+  "name": "GARDENA Zavlažovací počítač Master",
+  "prices": {
+   "obi_sk": 81.99,
+   "bauhaus_sk": 81.99
+  },
+  "min": 81.99,
+  "max": 81.99,
+  "spread_pct": 0.0,
   "match": "probable"
  },
  {
