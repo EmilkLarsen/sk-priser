@@ -564,6 +564,18 @@
   "match": "probable"
  },
  {
+  "key": "gardena zavlazovacie hodiny",
+  "name": "GARDENA Zavlažovacie hodiny",
+  "prices": {
+   "obi_sk": 30.99,
+   "bauhaus_sk": 29.9
+  },
+  "min": 29.9,
+  "max": 30.99,
+  "spread_pct": 3.6,
+  "match": "probable"
+ },
+ {
   "key": "vileda supermocio soft mop",
   "name": "Vileda SUPERMOCIO Soft Mop",
   "prices": {
@@ -705,18 +717,6 @@
   "min": 169.0,
   "max": 169.99,
   "spread_pct": 0.6,
-  "match": "probable"
- },
- {
-  "key": "gardena zavlazovacie hodiny",
-  "name": "GARDENA Zavlažovacie hodiny",
-  "prices": {
-   "obi_sk": 30.99,
-   "bauhaus_sk": 30.9
-  },
-  "min": 30.9,
-  "max": 30.99,
-  "spread_pct": 0.3,
   "match": "probable"
  },
  {
