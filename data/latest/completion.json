@@ -1,12 +1,12 @@
 {
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "detail": {
   "bauhaus_sk": {
    "rows": 48532,
-   "complete": true
+   "complete": false
   },
   "obi_sk": {
-   "rows": 125950,
+   "rows": 125698,
    "complete": false
   }
  }
