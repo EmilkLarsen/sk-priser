@@ -672,6 +672,18 @@
   "match": "probable"
  },
  {
+  "key": "metabo kompresor basic 160 6 w of",
+  "name": "Metabo Kompresor Basic 160-6 W OF",
+  "prices": {
+   "obi_sk": 129.99,
+   "bauhaus_sk": 128.0
+  },
+  "min": 128.0,
+  "max": 129.99,
+  "spread_pct": 1.6,
+  "match": "probable"
+ },
+ {
   "key": "gardena kalove cerpadlo 20000 aquasensor",
   "name": "GARDENA Kalové čerpadlo 20000 AquaSensor",
   "prices": {
