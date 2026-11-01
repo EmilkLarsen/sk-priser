@@ -3,10 +3,10 @@
  "detail": {
   "bauhaus_sk": {
    "rows": 48535,
-   "complete": false
+   "complete": true
   },
   "obi_sk": {
-   "rows": 126606,
+   "rows": 126607,
    "complete": false
   }
  }
