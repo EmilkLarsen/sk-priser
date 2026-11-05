@@ -2,19 +2,19 @@
  "date": "2026-11-05",
  "total_rows": 175138,
  "chains": {
-  "obi_sk": {
-   "products": 79116,
-   "price_changes": 0,
-   "suspicious_changes": 0,
-   "expired": 0,
-   "seconds": 18004.2
-  },
   "bauhaus_sk": {
    "products": 47950,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 3,
    "seconds": 16032.0
+  },
+  "obi_sk": {
+   "products": 118807,
+   "price_changes": 0,
+   "suspicious_changes": 0,
+   "expired": 0,
+   "seconds": 18006.2
   }
  }
 }
