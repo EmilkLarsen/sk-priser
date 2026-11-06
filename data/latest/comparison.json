@@ -12,6 +12,18 @@
   "match": "probable"
  },
  {
+  "key": "wolfcraft rucna bruska",
+  "name": "Wolfcraft Ručná brúska",
+  "prices": {
+   "obi_sk": 5.39,
+   "bauhaus_sk": 12.6
+  },
+  "min": 5.39,
+  "max": 12.6,
+  "spread_pct": 133.8,
+  "match": "probable"
+ },
+ {
   "key": "bosch priklepova vrtacka easyimpact 540",
   "name": "Bosch Príklepová vŕtačka EasyImpact 540",
   "prices": {
