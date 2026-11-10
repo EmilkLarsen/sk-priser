@@ -1,5 +1,5 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "total_rows": 174755,
  "chains": {
   "bauhaus_sk": {
@@ -10,11 +10,11 @@
    "seconds": 2487.2
   },
   "obi_sk": {
-   "products": 118787,
+   "products": 126746,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18006.4
+   "seconds": 3629.0
   }
  }
 }
