@@ -6,8 +6,11 @@
    "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   "obi_sk": {
-   "error": "collapse guard: 28 rows vs 126796 before",
-   "kept_previous": true
+   "products": 39220,
+   "price_changes": 0,
+   "suspicious_changes": 0,
+   "expired": 0,
+   "seconds": 18005.4
   }
  }
 }
