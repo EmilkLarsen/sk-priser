@@ -6,11 +6,11 @@
    "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   "obi_sk": {
-   "products": 39220,
+   "products": 78709,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18005.4
+   "seconds": 18005.0
   }
  }
 }
