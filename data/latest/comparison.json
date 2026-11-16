@@ -336,18 +336,6 @@
   "match": "probable"
  },
  {
-  "key": "gardena zavlazovaci pocitac select",
-  "name": "GARDENA Zavlažovací počítač Select",
-  "prices": {
-   "obi_sk": 51.99,
-   "bauhaus_sk": 45.95
-  },
-  "min": 45.95,
-  "max": 51.99,
-  "spread_pct": 13.1,
-  "match": "probable"
- },
- {
   "key": "bosch professional uhlova bruska gws 750 115",
   "name": "Bosch Professional Uhlová brúska GWS 750-115",
   "prices": {
@@ -417,18 +405,6 @@
   "min": 11.5,
   "max": 12.79,
   "spread_pct": 11.2,
-  "match": "probable"
- },
- {
-  "key": "gardena zahradna sprcha duo",
-  "name": "GARDENA Zahradná sprcha duo",
-  "prices": {
-   "obi_sk": 35.99,
-   "bauhaus_sk": 39.9
-  },
-  "min": 35.99,
-  "max": 39.9,
-  "spread_pct": 10.9,
   "match": "probable"
  },
  {
@@ -513,6 +489,18 @@
   "min": 172.0,
   "max": 184.99,
   "spread_pct": 7.6,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zavlazovaci pocitac flex",
+  "name": "GARDENA Zavlažovací počítač Flex",
+  "prices": {
+   "obi_sk": 42.99,
+   "bauhaus_sk": 46.0
+  },
+  "min": 42.99,
+  "max": 46.0,
+  "spread_pct": 7.0,
   "match": "probable"
  },
  {
@@ -660,6 +648,18 @@
   "match": "probable"
  },
  {
+  "key": "gardena zavlazovaci pocitac master",
+  "name": "GARDENA Zavlažovací počítač Master",
+  "prices": {
+   "obi_sk": 79.99,
+   "bauhaus_sk": 81.99
+  },
+  "min": 79.99,
+  "max": 81.99,
+  "spread_pct": 2.5,
+  "match": "probable"
+ },
+ {
   "key": "scheppach plazmova rezacka plc 40",
   "name": "Scheppach Plazmová rezačka PLC 40",
   "prices": {
@@ -744,6 +744,30 @@
   "match": "probable"
  },
  {
+  "key": "gardena zahradna sprcha duo",
+  "name": "GARDENA Zahradná sprcha duo",
+  "prices": {
+   "obi_sk": 39.99,
+   "bauhaus_sk": 39.9
+  },
+  "min": 39.9,
+  "max": 39.99,
+  "spread_pct": 0.2,
+  "match": "probable"
+ },
+ {
+  "key": "gardena zavlazovaci pocitac select",
+  "name": "GARDENA Zavlažovací počítač Select",
+  "prices": {
+   "obi_sk": 45.99,
+   "bauhaus_sk": 45.95
+  },
+  "min": 45.95,
+  "max": 45.99,
+  "spread_pct": 0.1,
+  "match": "probable"
+ },
+ {
   "key": "gardena domaca vodaren 3000 4",
   "name": "GARDENA Domáca vodáreň 3000/4",
   "prices": {
@@ -768,18 +792,6 @@
   "match": "probable"
  },
  {
-  "key": "gardena zavlazovaci pocitac master",
-  "name": "GARDENA Zavlažovací počítač Master",
-  "prices": {
-   "obi_sk": 81.99,
-   "bauhaus_sk": 81.99
-  },
-  "min": 81.99,
-  "max": 81.99,
-  "spread_pct": 0.0,
-  "match": "probable"
- },
- {
   "key": "gardena zavlazovaci ventil 9 v bluetooth",
   "name": "GARDENA Zavlažovací ventil 9 V Bluetooth",
   "prices": {
@@ -788,18 +800,6 @@
   },
   "min": 86.99,
   "max": 86.99,
-  "spread_pct": 0.0,
-  "match": "probable"
- },
- {
-  "key": "gardena zavlazovaci pocitac flex",
-  "name": "GARDENA Zavlažovací počítač Flex",
-  "prices": {
-   "obi_sk": 45.99,
-   "bauhaus_sk": 46.0
-  },
-  "min": 45.99,
-  "max": 46.0,
   "spread_pct": 0.0,
   "match": "probable"
  },
