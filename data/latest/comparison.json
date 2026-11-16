@@ -456,18 +456,6 @@
   "match": "probable"
  },
  {
-  "key": "makita uhlova bruska ga9020rf",
-  "name": "Makita Uhlová brúska GA9020RF",
-  "prices": {
-   "obi_sk": 134.99,
-   "bauhaus_sk": 146.0
-  },
-  "min": 134.99,
-  "max": 146.0,
-  "spread_pct": 8.2,
-  "match": "probable"
- },
- {
   "key": "metabo priamociara pila steb 65 quick",
   "name": "Metabo Priamočiara píla STEB 65 Quick",
   "prices": {
@@ -612,18 +600,6 @@
   "match": "probable"
  },
  {
-  "key": "zipper elektricky furik zi ewb500li",
-  "name": "ZIPPER Elektrický fúrik ZI-EWB500LI",
-  "prices": {
-   "obi_sk": 369.99,
-   "bauhaus_sk": 359.0
-  },
-  "min": 359.0,
-  "max": 369.99,
-  "spread_pct": 3.1,
-  "match": "probable"
- },
- {
   "key": "vileda supermocio vedro so zmykacim kosom",
   "name": "Vileda SUPERMOCIO Vedro so žmýkacím košom",
   "prices": {
@@ -732,6 +708,18 @@
   "match": "probable"
  },
  {
+  "key": "makita uhlova bruska ga9020rf",
+  "name": "Makita Uhlová brúska GA9020RF",
+  "prices": {
+   "obi_sk": 144.99,
+   "bauhaus_sk": 146.0
+  },
+  "min": 144.99,
+  "max": 146.0,
+  "spread_pct": 0.7,
+  "match": "probable"
+ },
+ {
   "key": "bosch professional pila na porobeton gac 250",
   "name": "Bosch Professional Píla na pórobetón GAC 250",
   "prices": {
@@ -741,6 +729,18 @@
   "min": 169.0,
   "max": 169.99,
   "spread_pct": 0.6,
+  "match": "probable"
+ },
+ {
+  "key": "zipper elektricky furik zi ewb500li",
+  "name": "ZIPPER Elektrický fúrik ZI-EWB500LI",
+  "prices": {
+   "obi_sk": 359.99,
+   "bauhaus_sk": 359.0
+  },
+  "min": 359.0,
+  "max": 359.99,
+  "spread_pct": 0.3,
   "match": "probable"
  },
  {
