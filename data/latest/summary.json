@@ -1,16 +1,20 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "total_rows": 174899,
  "chains": {
   "bauhaus_sk": {
-   "error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  "obi_sk": {
-   "products": 118662,
+   "products": 30510,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18006.0
+   "seconds": 18001.8
+  },
+  "obi_sk": {
+   "products": 126905,
+   "price_changes": 0,
+   "suspicious_changes": 0,
+   "expired": 0,
+   "seconds": 3754.8
   }
  }
 }
