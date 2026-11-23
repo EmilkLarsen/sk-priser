@@ -1,12 +1,8 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "chains": {
   "bauhaus_sk": {
-   "products": 47950,
-   "price_changes": 0,
-   "suspicious_changes": 0,
-   "expired": 1,
-   "seconds": 14710.8
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   }
  }
 }
