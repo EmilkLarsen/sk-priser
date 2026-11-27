@@ -10,11 +10,7 @@
    "seconds": 11455.5
   },
   "bauhaus_sk": {
-   "products": 25776,
-   "price_changes": 0,
-   "suspicious_changes": 0,
-   "expired": 0,
-   "seconds": 18001.3
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   }
  }
 }
