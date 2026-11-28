@@ -1,12 +1,12 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "chains": {
   "obi_sk": {
-   "products": 116269,
+   "products": 25809,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 11455.5
+   "seconds": 18003.6
   }
  }
 }
