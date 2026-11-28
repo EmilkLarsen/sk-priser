@@ -3,11 +3,11 @@
  "total_rows": 175329,
  "chains": {
   "obi_sk": {
-   "products": 25809,
+   "products": 52877,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18003.6
+   "seconds": 18012.1
   },
   "bauhaus_sk": {
    "error": "HTTPError: HTTP Error 403: Forbidden"
